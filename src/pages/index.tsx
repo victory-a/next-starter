@@ -1,7 +1,9 @@
-import type { NextPage } from 'next';
+import React from 'react';
 
-const Home: NextPage = () => {
-  return <p>index page</p>;
-};
-
-export default Home;
+export default function Index() {
+  return (
+    <div className="">
+      <p className="text-center">helllo</p>
+    </div>
+  );
+}

@@ -10,5 +10,6 @@
   "jsxBracketSameLine": false,
   "quoteProps": "as-needed",
   "htmlWhitespaceSensitivity": "css",
-  "arrowParens": "avoid"
+  "arrowParens": "avoid",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
