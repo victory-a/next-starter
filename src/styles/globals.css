@@ -22,9 +22,11 @@ html {
 }
 
 body {
+  background-color: black;
   box-sizing: border-box;
   color: whitesmoke;
   font-weight: 400;
+  font-size: 1.6rem;
   font-family: 'DM Sans', sans-serif;
 }
 
@@ -34,4 +36,8 @@ a {
 
 ul {
   list-style-type: none;
+}
+
+.red-border {
+  border: 1px solid red;
 }
